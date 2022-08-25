@@ -1,0 +1,129 @@
+{
+	"QPSK":
+	[
+		{
+			"code_rate": 0.25,
+			"EsNo": -2.35
+		},
+		{
+			"code_rate": 0.33,
+			"EsNo": -1.24
+		},
+		{
+			"code_rate": 0.40,
+			"EsNo": -0.3
+		},
+		{
+			"code_rate": 0.50,
+			"EsNo": 1.00
+		},
+		{
+			"code_rate": 0.60,
+			"EsNo": 2.23
+		},
+		{
+			"code_rate": 0.67,
+			"EsNo": 3.10
+		},
+		{
+			"code_rate": 0.75,
+			"EsNo": 4.03
+		},
+		{
+			"code_rate": 0.80,
+			"EsNo": 4.68
+		},
+		{
+			"code_rate": 0.83,
+			"EsNo": 5.18
+		},
+		{
+			"code_rate": 0.89,
+			"EsNo": 6.2
+		},
+		{
+			"code_rate": 0.90,
+			"EsNo": 6.42
+		}
+	],
+	
+	"8PSK":
+	[
+		{
+			"code_rate": 0.60,
+			"EsNo": 5.50
+		},
+		{
+			"code_rate": 0.67,
+			"EsNo": 6.62
+		},
+		{
+			"code_rate": 0.75,
+			"EsNo": 7.91
+		},
+		{
+			"code_rate": 0.83,
+			"EsNo": 9.35
+		},
+		{
+			"code_rate": 0.89,
+			"EsNo": 10.69
+		},
+		{
+			"code_rate": 0.90,
+			"EsNo": 10.98
+		}
+	],
+	
+	"16APSK":
+	[
+		{
+			"code_rate": 0.67,
+			"EsNo": 8.97
+		},
+		{
+			"code_rate": 0.75,
+			"EsNo": 10.21
+		},
+		{
+			"code_rate": 0.80,
+			"EsNo": 11.03
+		},
+		{
+			"code_rate": 0.83,
+			"EsNo": 11.61
+		},
+		{
+			"code_rate": 0.89,
+			"EsNo": 12.89
+		},
+		{
+			"code_rate": 0.90,
+			"EsNo": 13.13
+		}
+	],
+	
+	"32APSK":
+	[
+		{
+			"code_rate": 0.75,
+			"EsNo": 12.73
+		},
+		{
+			"code_rate": 0.80,
+			"EsNo": 13.64
+		},
+		{
+			"code_rate": 0.83,
+			"EsNo": 14.28
+		},
+		{
+			"code_rate": 0.89,
+			"EsNo": 15.69
+		},
+		{
+			"code_rate": 0.90,
+			"EsNo": 16.05
+		}
+	],
+}

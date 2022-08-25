@@ -1,0 +1,36 @@
+{
+     "Station":[
+        {
+             "lat": 100,
+             "lon": 45
+        },
+        {
+            "lat": 55,
+            "lon": 70
+        },
+        {
+            "lat": 80,
+            "lon": 110
+        }
+         
+         
+         
+    ],
+    "Flight": [
+        {
+            "startlat": 30,
+            "stoplat" : 60,
+            "startlon":30,
+            "stoplon":70,
+            "duration": 6
+            
+        },
+        {
+             "startlat": 10,
+            "stoplat" : 60,
+            "startlon": 12,
+            "stoplat": 50,
+            "duration": 4
+            }
+    ]
+}
